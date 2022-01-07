@@ -26,3 +26,21 @@ In a terminal or command window, navigate to the top-level project directory bos
 ```
 ipython notebook SMS-Classification.ipynb
 ```
+or open with Jupyter Lab
+```
+jupyter lab
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+
+### Data
+
+The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the UCI Machine Learning Repository.
+
+#### Features
+
+A collection of 425 SMS spam messages was manually extracted from the Grumbletext Web site. This is a UK forum in which cell phone users make public claims about SMS spam messages, most of them without reporting the very spam message received. The identification of the text of spam messages in the claims is a very hard and time-consuming task, and it involved carefully scanning hundreds of web pages.
+
+1. v1 contains the label (ham or spam) 
+2. v2 contains the raw text.
