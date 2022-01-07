@@ -23,6 +23,6 @@ The data used is sms-spam-classification.csv .
 ### Run
 In a terminal or command window, navigate to the top-level project directory boston_housing/ (that contains this README) and run one of the following commands:
 
-'''
+```
 ipython notebook SMS-Classification.ipynb
-'''
+```
